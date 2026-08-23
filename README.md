@@ -1,2 +1,3 @@
 # github_study
-学习git
+提交代码到分支
+git commit
