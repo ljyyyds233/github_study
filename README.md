@@ -4,3 +4,7 @@ git commit
 
 创建分支
 git branch xxx
+
+推送远程仓库
+
+git push
