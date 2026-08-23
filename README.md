@@ -6,5 +6,7 @@ git commit
 git branch xxx
 
 推送远程仓库
-
 git push
+
+拉取远程仓库
+git pull
